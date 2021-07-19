@@ -1,0 +1,62 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* container style */
+.container{
+     display: flex;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+/* half-width style */
+.half-width{
+    width: 50%;
+    margin-left: 25px;
+    padding: 30px;
+    padding: 60px;
+}
+/*-------------------
+span-tag style
+-------------------- */
+.span-tag{
+    color: #f38303;
+    font-size: 34px;
+}
+/* build tag style */
+.build{
+    color: rgb(0, 106, 226);
+}
+
+/* button style */
+.btn{
+    background-image:linear-gradient(orange, tomato);
+    border: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-size: 20px;
+    
+}
+
+/* anchor tag style */
+.btn a{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+}
+
+/* image width style */
+.half-width img{
+    width: 80%;
+}
+
+/* second part */
+/* .dream{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+   
+} */
+
