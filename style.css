@@ -59,4 +59,28 @@ span-tag style
     background-position: right;
    
 }
+.container{
+    display: flex;
+}
+.expo{
+    font-size: 40px;
+   
+}
+/* experience */
+.experience{
+    width: 40%;
+    height: 300px;
+    border: 1px solid #c7c1c1;
+    box-shadow: 4px 2px 30px #afaaaa;
+    margin-left: 42px;
+    padding: 20px;
+}
 
+/* fullstack */
+.fullstack{
+    color: lightseagreen;
+}
+/* developer */
+.developer{
+    color: orange;
+}
